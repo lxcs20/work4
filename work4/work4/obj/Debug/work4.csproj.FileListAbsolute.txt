@@ -1,0 +1,5 @@
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Work2\work4\work4\obj\Debug\work4.csproj.AssemblyReference.cache
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Work2\work4\work4\obj\Debug\work4.frmEmployee.resources
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Work2\work4\work4\obj\Debug\work4.Properties.Resources.resources
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Work2\work4\work4\obj\Debug\work4.csproj.GenerateResource.cache
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\Work2\work4\work4\obj\Debug\work4.csproj.CoreCompileInputs.cache
